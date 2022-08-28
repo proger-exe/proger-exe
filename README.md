@@ -4,15 +4,15 @@
 
     · 🌀 Regular programmer
 
-    · 🧑‍💻 Creator module `simpleconfig`
+    · 🧑‍💻 Creator module simpleconfig
 
-    · 🗃️ My stack: `Golang`, `Python`
+    · 🗃️ My stack: Golang, Python
 
 🚚 **My contacts:**
 
-    · 📡 Telegram: `@developer_exe`
+    · 📡 Telegram: @developer_exe
 
-    · 🪐 Discord: `None`
+    · 🪐 Discord: None
 
 # 🇷🇺 Русский
 
@@ -21,12 +21,12 @@
 
     · 🌀 Обычный программист
 
-    · 🧑‍💻 Создатель модуля `simpleconfig`
+    · 🧑‍💻 Создатель модуля simpleconfig
 
-    · 🗃️ Мой стек: `Golang`, `Python`
+    · 🗃️ Мой стек: Golang, Python
 
 🚚 **Мои контакты:**
 
-    · 📡 Telegram: `@developer_exe`
+    · 📡 Telegram: @developer_exe
 
-    · 🪐 Discord: `None`
+    · 🪐 Discord: None
