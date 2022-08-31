@@ -12,7 +12,7 @@
 
     · 📡 Telegram: @developer_exe
 
-    · 🪐 Discord: None
+    · 🪐 Discord: Elezor#5746
 
 # 🇷🇺 Русский
 
@@ -29,4 +29,4 @@
 
     · 📡 Telegram: @developer_exe
 
-    · 🪐 Discord: None
+    · 🪐 Discord: Elezor#5746
