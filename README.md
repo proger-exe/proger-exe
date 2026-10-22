@@ -14,7 +14,7 @@ I build APIs, bots, developer tools and Minecraft server systems.
 
 **Stack:** Python · FastAPI · aiogram · PostgreSQL · Redis · Docker · Linux · React · TypeScript · Java / Paper.
 
-[Portfolio](https://sh3lbyx.ru) · [Repositories](https://github.com/proger-exe?tab=repositories)
+[Portfolio](https://sh3l.beer) · [Repositories](https://github.com/proger-exe?tab=repositories)
 
 Demo status: Polis Map is live. Ledgerline and Renderline bot demos are pending;
 Ledgerline is configured for testnet. These repositories include prototypes and
